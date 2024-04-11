@@ -78,5 +78,6 @@
         "mojo": "mojo run"
     },
     "code-runner.runInTerminal": true,
-    "remote.forwardOnOpen": false
+    "remote.forwardOnOpen": false,
+    "java.project.sourcePaths": ["src/main/java"]
 }
